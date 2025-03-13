@@ -36,7 +36,7 @@ g++ -o game main.cpp board.cpp game.cpp -lncurses
 ./game
 ```
 
-![setup Screen](screenshots/setup.png)
+![setup Screen](screenshots/setup.JPG)
 
 ---
 
